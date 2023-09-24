@@ -1,3 +1,5 @@
+#include "sort.h"
+
 /**
  * lomuto_partition_scheme - Lomuto partition scheme for Quick Sort
  * @array: The array to be sorted.
