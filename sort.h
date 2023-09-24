@@ -2,7 +2,7 @@
 #define SORT_H
 
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
  * struct listint_s - Doubly linked list node
  *
@@ -24,3 +24,5 @@ void print_list(const listint_t *list);
 /* sort mandatory tasks */
 /* bubble sort */
 void bubble_sort(int *array, size_t size);
+
+#endif
