@@ -25,9 +25,9 @@ void swap_me(listint_t *current, listint_t *current_old, listint_t **list)
 }
 
 /**
- * cocktail_sort_list - cocktail_sort_list
+ * cocktail_sort_list - prorgram that sorts a doubly linked list of integers
  *
- * @list: doubly linked list
+ * @list: doubly linked lst
  */
 void cocktail_sort_list(listint_t **list)
 {

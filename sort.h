@@ -42,4 +42,8 @@ void shell_sort(int *array, size_t size);
 /*5. Cocktail shaker sort*/
 void cocktail_sort_list(listint_t **list);
 
+/*  6. Counting sort*/
+void counting_sort(int *array, size_t size);
+
+
 #endif
