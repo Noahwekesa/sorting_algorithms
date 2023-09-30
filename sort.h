@@ -45,5 +45,6 @@ void cocktail_sort_list(listint_t **list);
 /*  6. Counting sort*/
 void counting_sort(int *array, size_t size);
 
-
+/*merge sort*/
+void merge_sort(int *array, size_t size);
 #endif
