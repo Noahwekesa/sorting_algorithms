@@ -35,4 +35,11 @@ void selection_sort(int *array, size_t size);
 /*quick sort*/
 void quick_sort(int *array, size_t size);
 
+/* advanced */
+/*4. Shell sort - Knuth Sequence*/
+void shell_sort(int *array, size_t size);
+
+/*5. Cocktail shaker sort*/
+void cocktail_sort_list(listint_t **list);
+
 #endif
