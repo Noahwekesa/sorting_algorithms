@@ -47,7 +47,6 @@ void radix_sort(int *array, size_t size)
         for (i = 0; i < size; i++)
             array[i] = output[i];
 
-        /* Print array after each significant digit */
         for (i = 0; i < size; i++)
         {
             printf("%d", array[i]);

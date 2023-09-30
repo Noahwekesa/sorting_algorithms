@@ -53,4 +53,7 @@ void merge_sort(int *array, size_t size);
 
 /*radix sort*/
 void radix_sort(int *array, size_t size);
+
+/*bitnonic*/
+void bitonic_sort(int *array, size_t size);
 #endif
